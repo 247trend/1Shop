@@ -1,7 +1,7 @@
 const products = [
   {
     _id: '1',
-    name: 'MacBook Pro',
+    name: 'MacBook Pro 14" 1TB Storage M1 Max Space Gray ',
     image: '/images/MacBookPro.png',
     description:
       'The most powerful MacBook Pro ever is here. With the blazing-fast M1 Pro or M1 Max chip — the first Apple silicon designed for pros — you get groundbreaking performance and amazing battery life.',
@@ -14,7 +14,7 @@ const products = [
   },
   {
     _id: '2',
-    name: 'iPad Pro 256GB',
+    name: 'iPad Pro 256GB Storage Space Gray',
     image: '/images/iPadPro.png',
     description:
       'iPad is so versatile, it’s more than up to any task. Whether you’re working on a project, expressing your creativity or playing an immersive game, iPad is a fun and powerful way to get it done.',
@@ -27,7 +27,7 @@ const products = [
   },
   {
     _id: '3',
-    name: 'AirPods Max',
+    name: 'AirPods Max Blue',
     image: '/images/AirPodsMax.png',
     description:
       'Introducing AirPods Max — a perfect balance of exhilarating high-fidelity audio and the effortless magic of AirPods. The ultimate personal listening experience is here.',
